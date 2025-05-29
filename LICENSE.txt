@@ -2,6 +2,6 @@ Copyright (c) [ANO] [DIEL ENERGIA]
 
 Este código está disponível publicamente apenas para fins de visualização e análise técnica. 
 
-É estritamente proibido copiar, redistribuir, modificar ou usar este código (ou partes dele) para fins comerciais ou não comerciais sem autorização prévia, por escrito, da [NOME DA EMPRESA].
+É estritamente proibido copiar, redistribuir, modificar ou usar este código (ou partes dele) para fins comerciais ou não comerciais sem autorização prévia, por escrito, da Diel Energia.
 
 Todos os direitos reservados.
