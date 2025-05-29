@@ -1,4 +1,4 @@
-Copyright (c) [ANO] [DIEL ENERGIA]
+Copyright (c) 2025 Diel Energia
 
 Este código está disponível publicamente apenas para fins de visualização e análise técnica. 
 
